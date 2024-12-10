@@ -1,0 +1,16 @@
+ node --version
+node -v
+npm -v
+dir
+ code .
+ node teste.js
+dir
+npm init
+ dir
+cls
+npm install express
+npm i -g
+npm i -g express
+ npm i -g ejs
+doskey/h
+doskey/h> comandos.txt
